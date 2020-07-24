@@ -14,5 +14,5 @@ Each cell on this grid can be either green (represented by 1) or red (represente
   - The next 'height' lines should contain strings created by '0' and '1' (example "0000" , "1111")
   - Coordinates for cell to observe and turns till the game end (example 1,0,10)
 
-**Result returned:**  
+**Output:**  
 Single integer representing how many time observed cell has changed color to green for the given turns.
